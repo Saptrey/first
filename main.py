@@ -1,13 +1,12 @@
-def hello_world():
-    print('hello world!')
+status = False
+hm = input('Do you love me? (yes or no): ')
+if hm == 'yes' or hm == 'Yes':
+    status = True
 
+def you_love_me(choose):
+    if choose == True:
+        return "I'm happy!"
+    else:
+        return "I'm so sad..."
 
-#That's my first try on Github and I don't want any of critic ;)
-def f(x):
-    s = 1
-    for i in range(1,x+1):
-        s = s * i
-
-    return s
-
-print(f(5))
+print(you_love_me(status))

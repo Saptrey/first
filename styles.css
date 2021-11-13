@@ -1,3 +1,10 @@
-#Hello {
+#hello {
     text-align: center;
+    color: blueviolet;
+}
+#div_1 {
+    background-color: rgb(96, 234, 252);
+}
+#n {
+    background-color: burlywood;
 }

@@ -8,5 +8,3 @@ def you_love_me(choose):
         return "I'm happy!"
     else:
         return "I'm so sad..."
-
-print(you_love_me(status))

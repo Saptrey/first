@@ -1,0 +1,33 @@
+body {
+    background: grey;
+    color: rgb(248, 242, 242);
+}
+#h1 {
+    text-align: center;
+    color: tomato;
+}
+.div-1 p {
+    margin-left: 100px;
+    margin-bottom: 20px;
+}
+.div-1 strong {
+    color: rgb(241, 205, 41);
+}
+#you {
+    color: turquoise;
+}
+#you-2 {
+    color: rgb(248, 78, 106);
+}
+.div-2 p {
+    text-align: right;
+    margin-right: 100px;
+    margin-bottom: 20px;
+}
+.footer {
+    color: black;
+    text-align: center;
+    margin-top: 3000px;
+    margin-bottom: 30px;
+    font-size: 130%;
+}
